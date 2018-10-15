@@ -1,6 +1,6 @@
 # HARISH JUJJAVARAPU
 
-**[www.hari-007.github.io](https://www.hari-007.github.io)** | **[Linked IN](www.linkedin.com/in/hari-007)** | **[Twitter](https://twitter.com/hari__007)** 
+**[www.hari-007.github.io](https://www.hari-007.github.io)** | **[Linked IN](https://www.linkedin.com/in/hari-007/)** | **[Twitter](https://twitter.com/hari__007)** 
 
 ## EDUCATION
 
@@ -33,7 +33,7 @@
 #####   Freelance Developer -- `Oct 2017 – (present)`
 
 -   >  Developed VTEAL ([www.vteal.com](http://www.vteal.com)) a Cognitive Cloud App for restaurant services with Google Home, Alexa.
--   >   Provided business solutions to the clients from stock market, data warehouse and banking sectors.
+-   >  Provided business solutions to the clients from stock market, data warehouse and banking sectors.
 
 #### [Atos, Inc](https://atos.net) -- Pune, India
 #####   Software Engineer -- `June. 2015 – July. 2017`
