@@ -1,6 +1,6 @@
 {
     "title": "Hari Resume",
-    "name": "hari-professional-profile",
+    "name": "hari-007.github.io",
     "version": "0.0.1",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",

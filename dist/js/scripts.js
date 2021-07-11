@@ -1,7 +1,7 @@
 /*!
-* Start Bootstrap - Hari Resume v0.0.1 (https://hari-007.github.io/)
-* Copyright 2013-2021 hari-007
-* Licensed under MIT (https://github.com/StartBootstrap/hari-professional-profile/blob/master/LICENSE)
+* Hari Resume v0.0.1 (https://hari-007.github.io/)
+* Copyright 2018-2021 hari-007
+* Licensed under MIT (https://github.com/hari-007hari-007.github.io/blob/master/LICENSE)
 */
 //
 // Scripts
