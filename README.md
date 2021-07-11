@@ -1,75 +1,41 @@
-# HARISH JUJJAVARAPU
+# [Hari - Resume](https://startbootstrap.com/theme/resume/)
 
-**[www.hari-007.github.io](https://www.hari-007.github.io)** | **[Linked IN](https://www.linkedin.com/in/hari-007/)** | **[Twitter](https://twitter.com/hari__007)** 
+[Hari - Resume](https://hari-007.github.io/) is a resume and CV theme. This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
-## EDUCATION
+## Download and Installation
 
-### Western Illinois University (Macomb, IL)
-#####   Master’s in Computer Science -- `Aug. 2017 – (Expected May 2019)`
+To begin using this template, choose one of the following options to get started:
 
--   >   Cumulative GPA: 3.71 / 4.0
--   >   Relevant Coursework: Operating Systems, Computer Network, Database Systems, Artificial Intelligence Methods, Computer Architecture, Computer Graphics, Intensive Programming, Advanced Operating Systems.
+- Clone the repo: `git clone https://github.com/hari-007/hari-007.github.io.git`
+- [Fork, Clone, or Download on GitHub](https://github.com/hari-007/hari-007.github.io)
 
-### NRI Institute of Technology (AP, India)
+## Usage
 
-#####   B.Tech. in Computer Science Engineering -- `Aug. 2011 – Apr. 2015`
+### Basic Usage
 
--   >  Cumulative Percentage: 63%
--   >  Relevant Coursework: Data Structures, Web Technologies, Object Oriented Programming, Web Technologies, Mathematical Methods, Database Management, Computer Organization and Microprocessor Architecture
--   > Internship with Indian Government Railways focusing on compassionate ground auto letter generation system.
+After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-## PROFESSIONAL EXPERIENCE
+### Advanced Usage
 
-####  [Western Illinois University](https://www.wiu.edu) -- Macomb,IL
+Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
 
-##### Graduate Assistant Employee at Center for Innovation in Teaching and Research -- `Jan. 2018 – (present)`
+#### npm Scripts
 
--   >   Created iOS & Android applications to gather information from students and parents for the academic advisors.
--   >   Created text (SMS) and mailing services to nine university applications with new SMS Eagle modem.
--   >   Responsible for Git approached local development and production release environment migration from legacy.
--   >   Developing various PHP based services using MYSQL, MSSQL, Google Cloud API services.
+- `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
+- `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
+- `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
+- `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
+- `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
+- `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
+- `npm run start:debug` runs the project in debug mode
+- `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
 
-#### [Sysone, Inc](http://sysoneinc.com) -- Princeton, NJ
-#####   Freelance Developer -- `Oct 2017 – (present)`
+You must have npm installed in order to use this build environment.
 
--   >  Developed VTEAL ([www.vteal.com](http://www.vteal.com)) a Cognitive Cloud App for restaurant services with Google Home, Alexa.
--   >  Provided business solutions to the clients from stock market, data warehouse and banking sectors.
+## About
 
-#### [Atos, Inc](https://atos.net) -- Pune, India
-#####   Software Engineer -- `June. 2015 – July. 2017`
+This is an copy inspiration resume from the open source MIT licensed [Start Bootstrap - Resume](https://github.com/StartBootstrap/startbootstrap-resume). So, All credits and appriciation goes to Start Bootstrap first.
 
--   >   Responsible for creating multiple cloud services using Brooklyn service broker, cloud foundry, docker and rancher.
--   >   Presented multiple workshops about best practices of Angular, Nodejs, web and cloud application development.
--   >   Achieved Certificate of Excellence from Vice President for contribution to multiple teams.
+## Copyright and License
 
-##  INDEPENDENT AND FREELANCE
-##### Created and Managing Technological and Educational Sites `Aug. 2012 –(present)`
-
--   >   **[C, C++ tutorial blogs](http://candcppprogrammes.blogspot.in)** :  A programming tutorial blog for both C & C++ Language
--   >   **[Techno world](http://technoworld007.blogspot.com)** : A real world technology update site, which contians latest updates related to cars, bikes, mobile, computers, softwares ... e.t.c. **[Techno world facebook page](https://www.facebook.com/Technoworld007/) and [Techno world  twitter page](https://twitter.com/techno_world007)** is combined and integrated to this portal for collabrated notifications
--   >   Developed a secure AWS Elastic Compute Cloud (EC2) Manager Mobile Application for a final course project.
-
--   > [GitHub](https://github.com/hari-007) contributed projects includes AWS Full Stack scalable demo project, custom shell using OS POSIX services and cache simulation using C language, Angular and Ionic kick start projects.
-
-## SKILLS, ACTIVITIES AND INTERESTS
-#####   Languages/Technologies:
--   >   **Proficient in** Java, NodeJS, C, Python, PHP, SQL, Angular 
--   >   **familiar with** Swift, C++, Bash. 
--   >   **Experience in** data structures, Git, Ubuntu Unix/Linux, Apache, Ionic, React, Servlets, Hibernates, Spring, MongoDB, OpenGL, Google Cloud, Amazon Web Services (Lambda, Alexa, DynamoDB, S3, API Gateway), Rancher and Docker.
-
-#####   Activities: 
--   >   **Managing member for** Indian Student Association
--   >   **Active member for** Computer Science Association and contributing to Microsoft open source projects.
--   >   **volunteering for** international food & culture, raising leaders (nonprofit social welfare organization), World Wildlife Fund
-
-#### Interest:
--   >   **Listening to** Astrophysics and Space Science podcasts, cooking, computer gaming, badminton, traveling.
-
-## CERTIFICATES
-
--   >    Completed MITx 6.00.1 Computer Science and Programming using Python with 94%. *May 2018*
--   >   Java Standard Edition 7 certified programmer (1Z0-803) *Aug. 2015*
--   >   Oracle Database 11g: SQL Fundamentals (1Z0-051) Certification Sept.2015
--   >   Microsoft .NET Fundamentals Certification (98-372) *Sept. 2013*
--   >   1-hour code challenge merit certificate from code.org 
--   >   Two State-level best paper presentation certificates
+Code released under the [MIT](https://github.com/hari-007/hari-007/blob/master/LICENSE) license.
