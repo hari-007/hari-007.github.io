@@ -36,18 +36,18 @@
         "url": "https://github.com/hari-007/hari-007.github.io.git"
     },
     "dependencies": {
-        "bootstrap": "5.1.1"
+        "bootstrap": "^5.1.1"
     },
     "devDependencies": {
-        "autoprefixer": "10.3.4",
-        "browser-sync": "2.29.1",
-        "chokidar": "3.5.2",
-        "concurrently": "6.2.1",
-        "postcss": "8.3.6",
-        "prettier": "2.4.0",
-        "pug": "3.0.2",
-        "sass": "1.39.2",
-        "shelljs": "0.8.5",
-        "upath": "2.0.1"
+        "autoprefixer": "^10.3.4",
+        "browser-sync": "^2.29.1",
+        "chokidar": "^3.5.2",
+        "concurrently": "^6.2.1",
+        "postcss": "^8.3.6",
+        "prettier": "^2.4.0",
+        "pug": "^3.0.2",
+        "sass": "^1.39.2",
+        "shelljs": "^0.8.5",
+        "upath": "^2.0.1"
     }
 }
